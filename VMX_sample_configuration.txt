@@ -1,4 +1,4 @@
-et version 12.3R3.4
+set version 12.3R3.4
 set system host-name EX
 set system root-authentication encrypted-password "$1$I2KAD9si$hjspD6XiOO8g8iFTpv/7f/"
 set system services ssh root-login allow
